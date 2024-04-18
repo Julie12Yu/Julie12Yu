@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at the University of Washington studying Computer Science! <br>I want to explore the interaction between ethics and AI!
+I'm a student at the University of Washington studying Computer Science!
 
 
 ## 🌐 Socials:
