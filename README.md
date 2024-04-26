@@ -11,7 +11,7 @@ I'm a student at the University of Washington studying Computer Science!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=julie12yu&theme=dark&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=julie12yu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=julie12yu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=julie12yu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://github-contributor-stats.vercel.app/api?username=julie12yu&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
