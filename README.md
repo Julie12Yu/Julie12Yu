@@ -6,13 +6,17 @@ Research👩‍🔬:
 - [Artificial Intelligence in Casework (Analysis)](https://github.com/Julie12Yu/casework) - Core analysis repo for research project, looking into legal issues commonly ran into that involve AI, using NLP and standard visualization techniques
 - [Artificial Intelligence in Casework (Vis)](https://github.com/Julie12Yu/casework_vis) - Visualization for research project
 - [Globe AI](https://github.com/UWGlobeAI/uwglobeai.github.io) - Volunteering for website upkeep and upcoming symposium
-<br>Personal Projects👩‍💻:
+
+
+Personal Projects👩‍💻:
 - [Hampter Game](https://github.com/Julie12Yu/hampter) - Game for long distance friends/couples to build/grow things together
 
 ## 📕 Past Projects
 Research👩‍🔬:
 - [WEAVER](https://github.com/rohit-maheshwari/tarotcards-vsd-agent) - WEAVER project repo! Basis of CHI '25 LBW paper
-<br>Personal Projects👩‍💻:
+
+
+Personal Projects👩‍💻:
 - [GreenGrub](https://github.com/SamGanYX/GreenGrub) - Silly school project, allows you to compare foods and see which is better for your needs
 - [Family Recipes](https://github.com/Julie12Yu/family-recipes) - Website for family to upload cool recipes too
 - [Cat Tinder](https://github.com/Julie12Yu/CatTinder) - Dubhacks '24 project, allowing you to find cats to adopt nearby!
