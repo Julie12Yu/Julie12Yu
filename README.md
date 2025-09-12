@@ -29,4 +29,7 @@ Personal Projects👩‍💻:
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Julie12Yu&theme=dark&hide_border=false)<br/>
 
+
+PFP by [_artizzy](https://www.instagram.com/_artizzy) on Instagram!
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
