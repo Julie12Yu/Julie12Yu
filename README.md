@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm a student at the University of Washington studying Computer Science!<br>HCI Researcher and SWE Intern
+I'm an undergraduate at University of Washington studying Computer Science!<br>HCI Researcher and SWE Intern
 
 ## 📖 Current Projects
 Research👩‍🔬:
@@ -13,7 +13,7 @@ Personal Projects👩‍💻:
 
 ## 📘 Past Projects
 Research👩‍🔬:
-- [WEAVER](https://github.com/rohit-maheshwari/tarotcards-vsd-agent) - WEAVER project repo! Basis of CHI '25 LBW paper
+- [WEAVER](https://github.com/rohit-maheshwari/tarotcards-vsd-agent) - WEAVER project repo! Basis of [CHI '25 LBW paper](https://dl.acm.org/doi/abs/10.1145/3706599.3719747)
 
 
 Personal Projects👩‍💻:
