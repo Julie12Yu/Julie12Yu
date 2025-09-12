@@ -3,8 +3,8 @@ I'm a student at the University of Washington studying Computer Science!<br>HCI 
 
 ## 📖 Current Projects
 Research👩‍🔬:
-- [Artificial Intelligence in Casework (Analysis)](https://github.com/Julie12Yu/casework) - Core analysis repo for research project, looking into legal issues commonly ran into that involve AI, using NLP and standard visualization techniques
-- [Artificial Intelligence in Casework (Vis)](https://github.com/Julie12Yu/casework_vis) - Visualization for research project
+- [Artificial Intelligence in Casework (Analysis)](https://github.com/Julie12Yu/casework) - Core analysis repo for research project, looking into legal issues commonly ran into that involve AI, using NLP and standard visualization techniques, temporarily deployed [here](https://julie12yu.github.io/casework/)
+- [Artificial Intelligence in Casework (Vis)](https://github.com/Julie12Yu/casework_vis) - Visualization for research project, deployed [here](https://julie12yu.github.io/casework_vis/)
 - [Globe AI](https://github.com/UWGlobeAI/uwglobeai.github.io) - Volunteering for website upkeep and upcoming symposium
 
 
