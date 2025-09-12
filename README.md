@@ -11,7 +11,7 @@ Research👩‍🔬:
 Personal Projects👩‍💻:
 - [Hampter Game](https://github.com/Julie12Yu/hampter) - Game for long distance friends/couples to build/grow things together
 
-## 📕 Past Projects
+## 📘 Past Projects
 Research👩‍🔬:
 - [WEAVER](https://github.com/rohit-maheshwari/tarotcards-vsd-agent) - WEAVER project repo! Basis of CHI '25 LBW paper
 
